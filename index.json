@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "prometheus-prefect-exporter",
+  "versions": [
+    {
+      "commit": "1ce3beaa577b4a5edb998ab346f5f2c1268a9830",
+      "tag": "4.2.0",
+      "parsed_at": "2026-11-08T02:51:20.729352+00:00"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prometheus-prefect-exporter/commit/1ce3beaa577b4a5edb998ab346f5f2c1268a9830",
       "git:hexsha": "1ce3beaa577b4a5edb998ab346f5f2c1268a9830",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.2.0"
     },
     {

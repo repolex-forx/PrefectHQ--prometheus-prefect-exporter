@@ -1,0 +1,51 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/PrefectHQ/prometheus-prefect-exporter/commit/1ce3beaa577b4a5edb998ab346f5f2c1268a9830",
+  "@type": "git:Commit",
+  "git:hexsha": "1ce3beaa577b4a5edb998ab346f5f2c1268a9830",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/PrefectHQ/prometheus-prefect-exporter"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/1ce3beaa577b4a5edb998ab346f5f2c1268a9830.nq.gz",
+      "repolex:graphFileSize": 7349
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 86797
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 839
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1593
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "issue",
+      "repolex:graphFilePath": "issue/issue.nq.gz",
+      "repolex:graphFileSize": 20889
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 190954
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-08T02:49:27.819682+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "4.2.0"
+}
